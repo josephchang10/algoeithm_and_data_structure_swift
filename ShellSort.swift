@@ -1,6 +1,6 @@
 //
 //  ShellSort.swift
-//  
+//  希尔排序
 //
 //  Created by 张嘉夫 on 2017/7/23.
 //
